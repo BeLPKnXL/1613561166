@@ -2,7 +2,7 @@
 - 👀 I’m interested in comeputer-science.
 - 🌱 I’m currently learning C and Networking.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ---->> onex.orange@gmail.com
+- 📫 How to reach me ---->> 
 
 <!---
 1613561166/1613561166 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
