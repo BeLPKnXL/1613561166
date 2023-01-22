@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1613561166
+- 👋 Hi, I’m @
 - 👀 I’m interested in comeputer-science.
 - 🌱 I’m currently learning C and Networking.
 - 💞️ I’m looking to collaborate on ...
